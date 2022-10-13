@@ -1,0 +1,31 @@
+{
+  "name": "@breathlessway/svg-to-iconfont",
+  "version": "0.0.1",
+  "description": "将svg转换为iconfont的工具",
+  "main": "",
+  "bin": {
+    "svg2font": "bin/svg2font"
+  },
+  "scripts": {},
+  "keywords": [
+    "gulp",
+    "svg",
+    "iconfont"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "BreathlessWay <731005087@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "^9.4.1",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-iconfont": "^11.0.1",
+    "gulp-iconfont-css": "^3.0.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "log-symbols": "4.1.0"
+  }
+}
