@@ -14,3 +14,8 @@
 [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont)
 
 [gulp-iconfont-css](https://github.com/backflip/gulp-iconfont-css)
+
+
+# 问题
+
+1. svg图片中如果有线条重合，就会被重叠消除为底色【这个问题在icomoon网站中也存在】
